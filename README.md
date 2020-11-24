@@ -1,8 +1,6 @@
 # Next Date Problem
  A Software Testing Concept Implementing Using Java
 
-
-=================================================================>>
 ========================
 Install "jcalendar-1.4"
 ========================
@@ -26,8 +24,6 @@ Step 8: Click on Finish!
 Step 9: Click on close.
 
 Step 10: Restart the "Netbeans".
-
-==================================================================>>
 
 ========================
 BUILD OUTPUT DESCRIPTION
