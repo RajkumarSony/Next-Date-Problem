@@ -2,7 +2,7 @@
  A Software Testing Concept Implementing Using Java
 
 
-~Install "jcalendar-1.4"
+#Install "jcalendar-1.4
 
 Step 1: Open Netbeans > Goto "Tools" Menu.
 
@@ -25,7 +25,7 @@ Step 9: Click on close.
 Step 10: Restart the "Netbeans".
 
 
-~BUILD OUTPUT DESCRIPTION
+#BUILD OUTPUT DESCRIPTION
 
 
 When you build an Java application project that has a main class, the IDE
